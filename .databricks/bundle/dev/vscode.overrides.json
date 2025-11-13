@@ -1,1 +1,5 @@
-{}
+{
+  "authProfile": "marvelous",
+  "serverless": true,
+  "useClusterOverride": false
+}
